@@ -7,14 +7,12 @@ Este repositorio contiene ejemplos prácticos de implementación de menús en le
 ### NASM/
 Contiene ejemplos de menús implementados con NASM para la arquitectura x86.
 
-- **menu_basico.asm**: Menú simple con opciones básicas.
-- **menu_con_validacion.asm**: Menú con validación de entrada del usuario.
+- **menu_nasm.s**: Menú simple con opciones básicas.
 
 ### RadASM (MASM)/
 Contiene ejemplos de menús implementados con MASM utilizando RadASM.
 
 - **menu_simple.asm**: Ejemplo básico de menú en un entorno Windows.
-- **menu_avanzado.asm**: Menú con manejo avanzado de entrada y salida.
 
 ## 🛠 Requisitos
 
