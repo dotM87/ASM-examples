@@ -32,9 +32,9 @@ Contiene ejemplos de menús implementados con MASM utilizando RadASM.
    nasm -f bin menu_basico.asm -o menu_basico.com
    ```
 2. Ejecuta el programa con DOSBox:
-  ```bash
-  dosbox menu_basico.com
-  ```
+   ```bash
+   dosbox menu_basico.com
+   ```
 ### RadASM (MASM)
 1. Abre el proyecto en RadASM.
 2. Ensambla y ejecuta el archivo directamente desde el IDE.
